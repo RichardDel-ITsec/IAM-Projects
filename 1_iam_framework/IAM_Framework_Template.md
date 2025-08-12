@@ -27,7 +27,7 @@ A high-level overview of the Identity and Access Management (IAM) framework, its
 |-------------------|----------------------------------------------|
 | IAM Analyst       | Implementation & operations                  |
 | IAM SME           | Design governance and architecture           |
-| IT Support        | First-line troubleshooting                   |
+| ServiceDesk       | First-line troubleshooting                   |
 | Security Officer  | Oversight, compliance, reporting             |
 
 ## 6. 📈 KPIs & Metrics
