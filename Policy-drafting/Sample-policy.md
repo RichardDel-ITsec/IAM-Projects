@@ -1,10 +1,12 @@
 # Operational IAM Policy
 
 Policy Name: Corporate Identity and Access Management Operational Policy
-Version: 2.0
-Effective Date: [Insert Date]
-Approved By: [Insert Approver]
-Next Review Date: [Insert Date]
+
+Version: 1.0
+
+Approved By: RICHARD!
+
+Next Review Date: When I get the job🤞
 
 ### 1. Purpose
 
@@ -16,13 +18,13 @@ Applies to all employees, contractors, and third-party vendors.
 
 Covers all corporate applications, systems, and data managed via Microsoft Entra ID (Azure AD).
 
-### 3. Roles and Responsibilities
-Role	Responsibilities	Access Scope
-System Administrator	Manage IT infrastructure, enforce IAM policies	Full access to system configuration; MFA mandatory
-Application Owner	Approve access to specific applications	Full admin access to owned application; limited data access elsewhere
-Regular Employee	Perform job functions	Role-based access to systems and data required for tasks
-Contractor	Temporary project work	Restricted access with expiration dates; MFA required
-Information Security Officer (ISO)	Policy enforcement, access audits	Oversight of all privileged accounts and logs
+| Role            | Responsibility                       |
+|-----------------|----------------------------------------|
+| IAM Analyst     | Enforces access provisioning rules, Policy enforcement|
+| System Owner    | Validates access requests             |
+| HR              | Initiates onboarding/offboarding      |
+| Information Security Officer (ISO) | Conducts access audits and reviews|
+	
 ## 4. User Lifecycle Management
 
 ### 4.1 Onboarding
@@ -59,11 +61,11 @@ Access aligned with job responsibilities (least privilege).
 
 Managed via Microsoft Entra ID PIM.
 
-Just-in-time access with approval workflow.
+Just-in-time access with approval workflow99g.
 
 MFA required for all privileged accounts.
 
-####5.3 Conditional Access Rules
+#### 5.3 Conditional Access Rules
 
 Require MFA for remote access and high-risk logins.
 
@@ -85,9 +87,11 @@ Minimum password length: 12 characters.
 
 Complexity: uppercase, lowercase, numeric, special character.
 
-Password rotation every 90 days.
+Password rotation every 365 days.
 
-MFA required for all accounts accessing sensitive data or admin roles.
+MFA required for all accounts.
+
+
 
 ### 7. Monitoring and Audit
 
