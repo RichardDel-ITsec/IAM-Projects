@@ -14,7 +14,7 @@ A high-level overview of the Identity and Access Management (IAM) framework, its
 | Conditional Access     | Context-based policy enforcement                        |
 | MFA                    | Mandatory for all remote/cloud access                   |
 | RBAC                   | Access tied to roles like "Fee-earners", "Paralegal", etc.   |
-| SSO                    | Unified login to O365, SharePoint, and legal apps       |
+| SSO                    | Unified login to Microsoft365, Onprem apps, and Cloup apps       |
 | PAM                    | Control of privileged admin accounts                    |
 
 ## 4. 🛡️ Governance & Lifecycle
