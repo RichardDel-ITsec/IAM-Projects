@@ -4,7 +4,7 @@ This project simulates a common IAM challenge: **orphaned and inactive accounts*
 - **Orphaned accounts**: user accounts still active but with **no manager of record** (often ex-staff).
 - **Inactive accounts**: accounts that haven't logged in for a long period (default **90 days**).
 
-These are **high-risk** for any firm — especially a law firm handling sensitive client data — because they can lead to **unauthorised access**, **audit findings**, and **non-compliance** with ISO 27001 and GDPR Article 32.
+These are **high-risk** for any firm — especially a firm handling sensitive client data — because they can lead to **unauthorised access**, **audit findings**, and **non-compliance** with ISO 27001 and GDPR Article 32.
 
 ---
 
