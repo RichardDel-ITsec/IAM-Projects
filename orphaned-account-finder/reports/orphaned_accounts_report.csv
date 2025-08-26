@@ -1,0 +1,23 @@
+username,department,last_login,active,status
+user29,Finance,2025-03-09,Yes,Inactive
+user35,Finance,2025-07-27,Yes,Orphaned
+user12,HR,2025-03-03,Yes,Inactive
+user25,HR,2025-05-16,Yes,Inactive
+user26,HR,2025-05-14,Yes,Inactive
+user15,HR,2025-06-12,Yes,Orphaned
+user17,HR,2025-08-14,Yes,Orphaned
+user23,HR,2025-05-26,Yes,Orphaned
+user19,IT,2025-03-25,Yes,Inactive
+user21,IT,2025-03-12,Yes,Inactive
+user22,IT,2025-02-22,Yes,Inactive
+user01,IT,2025-07-17,Yes,Orphaned
+user06,Marketing,2025-03-28,Yes,Inactive
+user13,Marketing,2024-12-31,Yes,Inactive
+user16,Marketing,2025-05-09,Yes,Inactive
+user18,Marketing,2025-03-31,Yes,Inactive
+user31,Marketing,2025-05-22,Yes,Inactive
+user32,Marketing,2025-03-19,Yes,Inactive
+user33,Marketing,2025-05-16,Yes,Inactive
+user02,Marketing,2025-07-31,Yes,Orphaned
+user09,Marketing,2025-01-28,Yes,Orphaned & Inactive
+user10,Marketing,2025-03-14,Yes,Orphaned & Inactive
