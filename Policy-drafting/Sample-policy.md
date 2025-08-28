@@ -43,11 +43,12 @@ Access to cloud applications and on-prem systems revoked.
 
 Devices are returned, and credentials are reset.
 
+Account to be deleted in next quaterly review cycle.
 ### 4.3 Role Changes
 
 Role updates triggered by promotions or departmental moves.
 
-Privileges are adjusted according to new responsibilities.
+Privileges are adjusted according to new role, as prescride by role matrix.
 
 ### 5. Access Control Policy
 
@@ -98,8 +99,9 @@ MFA required for all accounts.
 All access events logged in Microsoft Entra ID and forwarded to SIEM.
 
 Automated alerts for unusual login activity.
+Monthly access review for all privileged accounts.
 
-Quarterly access reviews for all privileged accounts.
+Quarterly access review report for all privileged accounts.
 
 Annual audit to ensure compliance with ISO 27001 and GDPR.
 
