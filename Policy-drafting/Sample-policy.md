@@ -6,7 +6,7 @@ Version: 1.0
 
 Approved By: RICHARD!
 
-Next Review Date: When I get the job🤞
+Next Review Date: 🤞
 
 ### 1. Purpose
 
@@ -29,7 +29,7 @@ Covers all corporate applications, systems, and data managed via Microsoft Entra
 
 ### 4.1 Onboarding
 
-Account creation occurs only after HR and manager approval.
+Account creation occurs only after HR HCM system trigger.
 
 Default role assignment based on job function.
 
@@ -37,13 +37,13 @@ MFA enrollment required during account setup.
 
 ### 4.2 Offboarding
 
-Accounts deactivated immediately upon termination or contract end.
+Accounts disabled immediately upon termination or contract end.
 
 Access to cloud applications and on-prem systems revoked.
 
 Devices are returned, and credentials are reset.
 
-Account to be deleted in next quaterly review cycle.
+Account to be deleted post subsequent quarterly recertification cycle( To allow for minimum 3 month email\onedrive .
 ### 4.3 Role Changes
 
 Role updates triggered by promotions or departmental moves.
