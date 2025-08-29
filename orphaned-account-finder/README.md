@@ -1,7 +1,7 @@
 # 🕵️‍♂️ Orphaned & Inactive Accounts Finder
 
 This project simulates a common IAM challenge: **orphaned and inactive accounts** in an organisation.  
-- **Orphaned accounts**: user accounts still active but with **no manager of record** (often ex-staff).
+- **Orphaned accounts**: user accounts still active but with **no manager of record** or owner (e.g service accounts(as Liz noted in interview)).
 - **Inactive accounts**: accounts that haven't logged in for a long period (default **90 days**).
 
 These are **high-risk** for any firm — especially a firm handling sensitive client data — because they can lead to **unauthorised access**, **audit findings**, and **non-compliance** with ISO 27001 and GDPR Article 32.
@@ -44,11 +44,7 @@ Python dependencies:
 ---
 
 ## 🧠 Why this project
-It's a compact, demonstrable way to show you understand IAM lifecycle controls (joiner–mover–leaver), **least privilege**, and **continuous access review**. It’s also easy to extend — for example:
-- Add a rule for **disabled but still licensed** accounts
-- Map managers to cost centres for prioritised clean-up
-- Create a **Streamlit** dashboard for interactive reviews
-
+It's a compact, demonstrable way to show you understand IAM lifecycle controls (joiner–mover–leaver), **least privilege**, and **continuous access review**.
 ---
 
-*Made with ❤️ as a learning and interview portfolio project.*
+*Made with ❤️ as a  portfolio project.*
