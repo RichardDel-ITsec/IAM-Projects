@@ -43,7 +43,7 @@ Access to cloud applications and on-prem systems revoked.
 
 Devices are returned, and credentials are reset.
 
-Account to be deleted post subsequent quarterly recertification cycle( To allow for minimum 3 month email\onedrive .
+Account to be deleted post subsequent quarterly recertification cycle( To allow for minimum 3 month email\onedrive retention) .
 ### 4.3 Role Changes
 
 Role updates triggered by promotions or departmental moves.
